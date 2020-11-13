@@ -13,5 +13,6 @@
 
 .container svg {
   width: 80%;
-  height: 100vh;
+  height: 100%;
+  overflow: visible;
 }
